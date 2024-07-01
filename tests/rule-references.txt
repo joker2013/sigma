@@ -3646,3 +3646,14 @@ https://csirt-cti.net/2024/02/01/stately-taurus-continued-new-information-on-cyb
 https://www.linkedin.com/pulse/exploit-available-dangerous-ms-office-rce-vuln-called-thebenygreen-
 https://learn.microsoft.com/en-us/windows/win32/intl/code-page-identifiers
 https://web.archive.org/web/20200929062532/https://blog.menasec.net/2019/02/threat-hunting-rdp-hijacking-via.html
+https://www.loobins.io/binaries/xattr/
+https://www.trendmicro.com/en_no/research/24/b/cve202421412-water-hydra-targets-traders-with-windows-defender-s.html
+https://redcanary.com/blog/msix-installers/
+https://github.com/RhinoSecurityLabs/CVEs/blob/15cf4d86c83daa57b59eaa2542a0ed47ad3dc32d/CVE-2024-1212/CVE-2024-1212.py
+https://github.com/pr0xylife/Pikabot/blob/main/Pikabot_22.12.2023.txt
+https://github.com/deepinstinct/NoFilter/blob/121d215ab130c5e8e3ad45a7e7fcd56f4de97b4d/NoFilter/Consts.cpp
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/schtasks-create
+https://learn.microsoft.com/en-us/windows/client-management/manage-recall
+https://www.volexity.com/blog/2024/04/12/zero-day-exploitation-of-unauthenticated-remote-code-execution-vulnerability-in-globalprotect-cve-2024-3400/
+https://github.com/forgottentq/powershell/blob/9e616363d497143dc955c4fdce68e5c18d28a6cb/captureWindows-Endpoint.ps1#L13
+https://web.archive.org/web/20160928212230/https://www.adaptforward.com/2016/09/using-netshell-to-execute-evil-dlls-and-persist-on-a-host/
